@@ -16,8 +16,9 @@
 
 <h3 align="left">Get in Touch:</h3>
 
-- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
+- Your Future Buddy on [Instagram](https://instagram.com/sri_ka_?igshid=NGVhN2U2NjQ0Yg==)  [Facebook](https://www.facebook.com/gunta.srikanth?mibextid=nW3QTL)
 - Your future employee on [LinkedIn](https://linkedin.com/in/gunta-srikanth)
 - And of course GitHub you're already on (Recursion).
+
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guntasrikanth&" alt="guntasrikanth" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guntasrikanth&" alt="guntasrikanth"/></p>
