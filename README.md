@@ -9,7 +9,7 @@
 
 ## About me
 
-Recent graduate with a burning passion for web development. Eager to learn, collaborate, and grow within the tech community. Excited about the endless possibilities of coding.
+Transitioning into the tech world with a background in Customer Service. Passionate for web development. Eager to learn, collaborate, and grow within the tech community. Excited about the endless possibilities of coding. Enthusiastic about contributing to open source projects and learning from the vibrant tech community.
 
 You can reach me **guntasrikanth@gmail.com**
 
