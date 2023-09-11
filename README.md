@@ -3,7 +3,7 @@
 <img align="right" alt='coding' width='400' src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/guntasrikanth/count.svg" />
 </p>
 
 - 🌱 I’m currently learning **Python**
