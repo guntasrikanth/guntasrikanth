@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
 <h1 align="center">Hi 👋, I'm Srikanth</h1>
 <h3 align="center">A passionate Python developer from India.</h3>
 <img align="right" alt='coding' width='400' src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
