@@ -4,6 +4,10 @@
 <h3 align="center">A passionate Python developer from India.</h3>
 <img align="right" alt='coding' width='400' src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guntasrikanth&label=Profile%20views&color=0e75b6&style=flat" alt="guntasrikanth" /> </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 - 🌱 I’m currently learning **Python**
 
